@@ -17,7 +17,7 @@ The current steps of the DAPP:
   For demo purposes this is based on last block.timestamp, but eventually should be daily
 5. If the DIV token is transferred, capture this information the same way as somebody purchasing from the smart contract
 
-
+Public Ethereum Account: 
 
 
 
