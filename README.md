@@ -18,9 +18,9 @@ Start React App on localserver with ``` npm start ``` <br>
 
 
 #  Project Links
-*Public Ethereum Account*: 0x35e9328De57f5DF21dfBdE7b0D67672Dd59A26C8 <br>
-*Github Pages Deployed Address*: https://gniehaus.github.io/blockchain-developer-bootcamp-final-project/ <br>
-Walkthrough of Project & Use Case: https://www.loom.com/share/cc66be7e84174becb4a6f74e8b3d8bc3 (loom doesn't show Metamask accounts sorry!)
+**Public Ethereum Account**: 0x35e9328De57f5DF21dfBdE7b0D67672Dd59A26C8 <br>
+**Github Pages Deployed Address**: https://gniehaus.github.io/blockchain-developer-bootcamp-final-project/ <br>
+**Walkthrough of Project & Use Case**: https://www.loom.com/share/cc66be7e84174becb4a6f74e8b3d8bc3 (loom doesn't show Metamask accounts sorry!)
 
 
 # Business Problem
