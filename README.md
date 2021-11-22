@@ -1,4 +1,4 @@
-## Dapp for ConsenSys Academy Blockchain Developer Bootcamp - Daily Dividends
+# Dapp for ConsenSys Academy Blockchain Developer Bootcamp - Daily Dividends
 
 
 
@@ -10,10 +10,10 @@
 ```npm install gh-pages --save-dev ``` <br>
 
 # Test Contracts - port 7545
-Compile with ``` truffle compile ```
-Develop with ``` truffle develop ```
-Run truffle tests with ``` truffle test ```
-Start React App on localserver with ``` npm start ```.
+Compile with ``` truffle compile ``` <br>
+Develop with ``` truffle develop ``` <br>
+Run truffle tests with ``` truffle test ``` <br>
+Start React App on localserver with ``` npm start ``` <br>
 
 
 
