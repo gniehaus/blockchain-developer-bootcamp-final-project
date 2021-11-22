@@ -16,7 +16,17 @@ If the DIV token is transferred, capture this information the same way as somebo
 On/Off switch if bug is found in the contract
 Public Ethereum Account: 0x35e9328De57f5DF21dfBdE7b0D67672Dd59A26C8
 
+<<<<<<< HEAD
 Dependencies: Node Package Manager npm install @openzeppelin/contracts npm install web3 npm install -g truffle npm install gh-pages --save-dev
+=======
+**Public Ethereum Account**: 0x35e9328De57f5DF21dfBdE7b0D67672Dd59A26C8
+
+Dependencies: Node Package Manager 
+npm install @openzeppelin/contracts
+npm install web3
+npm install -g truffle
+npm install gh-pages --save-dev
+>>>>>>> f4ecbd17d6a7cb5166e55ce235d6bfe66effbef6
 
 Start React App on localserver with npm start.
 
