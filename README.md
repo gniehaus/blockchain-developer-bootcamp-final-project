@@ -24,7 +24,7 @@ As an investor, currently technology takes two days to confirm the record keeper
 
 Blockchain technology allows for immediate (or close to) execuation and record keeping, thus eliminating the need for an ex-dividend date. The goal of my project is to capture eth from an investor and transfer back a "DIV" token. This DIV token will represent ownership in a tokenized stock or etf. Currently, tokenized stocks are illegal within the US, so this portion would need to be phase 2 (If the SEC eventually allows).
 
-# The current steps of the DAPP:
+# The Current Steps of the DAPP:
 
 - Attach your digital wallet to the DAPP
 - Purchase a DIV token (only 10k in existence!) by sending eth to the smart contract Ropsten: [0x033E10b9a84ad03e82927C7F508C7f142e3462B2].
