@@ -1,4 +1,12 @@
-Dapp for ConsenSys Academy Blockchain Developer Bootcamp
+# Dapp for ConsenSys Academy Blockchain Developer Bootcamp
+
+
+
+Dependencies: '''Node Package Manager npm install @openzeppelin/contracts npm install web3 npm install -g truffle npm install gh-pages --save-dev'''
+
+Start React App on localserver with npm start.
+
+Run truffle tests with Truffle test
 
 The core of finance and investments are based on time and returns, which both can be optimized with smart contracts and blockchain.
 
@@ -16,9 +24,3 @@ If the DIV token is transferred, capture this information the same way as somebo
 On/Off switch if bug is found in the contract
 Public Ethereum Account: 0x35e9328De57f5DF21dfBdE7b0D67672Dd59A26C8
 Github Pages Deployed Address: https://gniehaus.github.io/blockchain-developer-bootcamp-final-project/
-
-Dependencies: Node Package Manager npm install @openzeppelin/contracts npm install web3 npm install -g truffle npm install gh-pages --save-dev
-
-Start React App on localserver with npm start.
-
-Run truffle tests with Truffle test
