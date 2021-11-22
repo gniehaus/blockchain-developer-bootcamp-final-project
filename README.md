@@ -2,11 +2,12 @@
 
 
 
-Dependencies: ```  
-npm install @openzeppelin/contracts 
-npm install web3 
-npm install -g truffle
-npm install gh-pages --save-dev ```
+Dependencies: 
+```  
+npm install @openzeppelin/contracts ```
+```npm install web3 ```
+```npm install -g truffle```
+```npm install gh-pages --save-dev ```
 
 Start React App on localserver with npm start.
 
