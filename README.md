@@ -10,12 +10,13 @@ Blockchain technology allows for immediate (or close to) execuation and record k
 The current steps of the DAPP:
 
 1. Attach your digital wallet to the DAPP
-2. Purchase a DIV token (only 5 in existence!) by sending eth to the smart contract [address here once published].
+2. Purchase a DIV token (only 10k in existence!) by sending eth to the smart contract Ropsten: [0x033E10b9a84ad03e82927C7F508C7f142e3462B2].
 3. Your digital wallet address, time of purchase, and amount will be stored in a struct
 4. The owner of the account will pay dividends to all holders of DIV token 
   Only the owner can pay dividends
   For demo purposes this is based on last block.timestamp, but eventually should be daily
 5. If the DIV token is transferred, capture this information the same way as somebody purchasing from the smart contract
+6. On/Off switch if bug is found in the contract
 
 **Public Ethereum Account**: 0x35e9328De57f5DF21dfBdE7b0D67672Dd59A26C8
 
