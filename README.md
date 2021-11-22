@@ -2,15 +2,15 @@
 
 
 
-Dependencies: 
+Dependencies: <br>
 ```npm install @openzeppelin/contracts ``` <br>
-```npm install web3 ```
-```npm install -g truffle```
-```npm install gh-pages --save-dev ```
+```npm install web3 ``` <br>
+```npm install -g truffle``` <br>
+```npm install gh-pages --save-dev ``` <br>
 
-Start React App on localserver with npm start.
+Start React App on localserver with ``` npm start ```.
 
-Run truffle tests with Truffle test
+Run truffle tests with ``` Truffle test ```
 
 The core of finance and investments are based on time and returns, which both can be optimized with smart contracts and blockchain.
 
