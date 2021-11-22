@@ -39,6 +39,6 @@ Blockchain technology allows for immediate (or close to) execuation and record k
 - If the DIV token is transferred, capture this information the same way as somebody purchasing from the smart contract
 - On/Off switch if bug is found in the contract
 
-# Todo
+# To-Do
 It's currently illegal to invest in tokenized stocks/etfs within the us. This project covers phase (1), which is a POC to show a transfer of token for eth, and to pay that eth back based on sort unit of time. Phase 2 would invest the eth sent to the smart contract into tokenized stocks/etfs. Lastly, it would break up normal quarterly dividends into a more frequent (daily) distribution.
 
