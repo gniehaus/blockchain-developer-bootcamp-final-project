@@ -16,6 +16,8 @@ Run truffle tests with ``` Truffle test ```
 Public Ethereum Account: 0x35e9328De57f5DF21dfBdE7b0D67672Dd59A26C8
 Github Pages Deployed Address: https://gniehaus.github.io/blockchain-developer-bootcamp-final-project/
 
+
+# Business Problem
 The core of finance and investments are based on time and returns, which both can be optimized with smart contracts and blockchain.
 
 As an investor, currently technology takes two days to confirm the record keeper of a security. This leads to the idea of an "ex-dividend" date. This is the date when the security stops trading with dividend rights. Dividends are generally paid out quarterly, with some etfs providing monthly dividends. As an investor, if I can receive dividends earlier, I can reinvest those dividends and increase APY with compounding interest.
