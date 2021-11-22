@@ -3,7 +3,7 @@
 
 
 Dependencies: 
-```npm install @openzeppelin/contracts ```
+```npm install @openzeppelin/contracts ``` <br>
 ```npm install web3 ```
 ```npm install -g truffle```
 ```npm install gh-pages --save-dev ```
