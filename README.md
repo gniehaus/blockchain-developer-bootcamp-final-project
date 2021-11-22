@@ -17,7 +17,17 @@ The current steps of the DAPP:
   For demo purposes this is based on last block.timestamp, but eventually should be daily
 5. If the DIV token is transferred, capture this information the same way as somebody purchasing from the smart contract
 
-Public Ethereum Account: 
+**Public Ethereum Account**: 0x35e9328De57f5DF21dfBdE7b0D67672Dd59A26C8
+
+Dependencies: Node Package Manager 
+npm install @openzeppelin/contracts
+npm install web3
+npm install -g truffle
+
+Start React App on localserver with npm start.
+
+Run truffle tests with Truffle test
+
 
 
 
