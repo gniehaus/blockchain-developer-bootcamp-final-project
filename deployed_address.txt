@@ -1,0 +1,7 @@
+Ropsten:
+
+Avalanche Mainnet:
+https://snowtrace.io/address/0xee54c96aeeb509d1890b1af649761a922faed210
+Address: 0xEe54c96aEeB509d1890b1aF649761a922FAed210
+
+Fantom Mainnet:
