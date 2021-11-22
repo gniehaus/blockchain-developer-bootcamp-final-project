@@ -1,4 +1,3 @@
-# blockchain-developer-bootcamp-final-project
 Dapp for ConsenSys Academy Blockchain Developer Bootcamp
 
 The core of finance and investments are based on time and returns, which both can be optimized with smart contracts and blockchain.
@@ -9,26 +8,16 @@ Blockchain technology allows for immediate (or close to) execuation and record k
 
 The current steps of the DAPP:
 
-1. Attach your digital wallet to the DAPP
-2. Purchase a DIV token (only 10k in existence!) by sending eth to the smart contract Ropsten: [0x033E10b9a84ad03e82927C7F508C7f142e3462B2].
-3. Your digital wallet address, time of purchase, and amount will be stored in a struct
-4. The owner of the account will pay dividends to all holders of DIV token 
-  Only the owner can pay dividends
-  For demo purposes this is based on last block.timestamp, but eventually should be daily
-5. If the DIV token is transferred, capture this information the same way as somebody purchasing from the smart contract
-6. On/Off switch if bug is found in the contract
+Attach your digital wallet to the DAPP
+Purchase a DIV token (only 10k in existence!) by sending eth to the smart contract Ropsten: [0x033E10b9a84ad03e82927C7F508C7f142e3462B2].
+Your digital wallet address, time of purchase, and amount will be stored in a struct
+The owner of the account will pay dividends to all holders of DIV token Only the owner can pay dividends For demo purposes this is based on last block.timestamp, but eventually should be daily
+If the DIV token is transferred, capture this information the same way as somebody purchasing from the smart contract
+On/Off switch if bug is found in the contract
+Public Ethereum Account: 0x35e9328De57f5DF21dfBdE7b0D67672Dd59A26C8
 
-**Public Ethereum Account**: 0x35e9328De57f5DF21dfBdE7b0D67672Dd59A26C8
-
-Dependencies: Node Package Manager 
-npm install @openzeppelin/contracts
-npm install web3
-npm install -g truffle
+Dependencies: Node Package Manager npm install @openzeppelin/contracts npm install web3 npm install -g truffle npm install gh-pages --save-dev
 
 Start React App on localserver with npm start.
 
 Run truffle tests with Truffle test
-
-
-
-
