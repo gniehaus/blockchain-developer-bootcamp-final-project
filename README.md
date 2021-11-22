@@ -1,4 +1,4 @@
-## Dapp for ConsenSys Academy Blockchain Developer Bootcamp
+## Dapp for ConsenSys Academy Blockchain Developer Bootcamp - Daily Dividends
 
 
 
@@ -32,4 +32,7 @@ Blockchain technology allows for immediate (or close to) execuation and record k
 - The owner of the account will pay dividends to all holders of DIV token Only the owner can pay dividends For demo purposes this is based on last block.timestamp, but eventually should be daily
 - If the DIV token is transferred, capture this information the same way as somebody purchasing from the smart contract
 - On/Off switch if bug is found in the contract
+
+# Todo
+It's currently illegal to invest in tokenized stocks/etfs within the us. This project covers phase (1), which is a POC to show a transfer of token for eth, and to pay that eth back based on sort unit of time. Block.timestamp is used in this project.
 
