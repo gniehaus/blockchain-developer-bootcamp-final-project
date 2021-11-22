@@ -6,11 +6,16 @@
 ```npm install @openzeppelin/contracts ``` <br>
 ```npm install web3 ``` <br>
 ```npm install -g truffle``` <br>
+```npm install -g ganache-cli``` <br>
 ```npm install gh-pages --save-dev ``` <br>
 
+# Test Contracts - port 7545
+Compile with ``` truffle compile ```
+Develop with ``` truffle develop ```
+Run truffle tests with ``` truffle test ```
 Start React App on localserver with ``` npm start ```.
 
-Run truffle tests with ``` Truffle test ```
+
 
 #  Project Links
 Public Ethereum Account: 0x35e9328De57f5DF21dfBdE7b0D67672Dd59A26C8
