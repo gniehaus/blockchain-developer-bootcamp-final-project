@@ -1,10 +1,10 @@
 Ropsten:
 0x033E10b9a84ad03e82927C7F508C7f142e3462B2
 
-Avalanche Mainnet:
+Avalanche Mainnet: (Has 90% of functionality as Ropsten Finished Contract)
 https://snowtrace.io/address/0xee54c96aeeb509d1890b1af649761a922faed210
 Address: 0xEe54c96aEeB509d1890b1aF649761a922FAed210
 
-Fantom Mainnet:
+Fantom Mainnet: (Has 90% of functionality as Ropsten Finished Contract)
 https://ftmscan.com/token/0xee54c96aeeb509d1890b1af649761a922faed210
 Address: 0xEe54c96aEeB509d1890b1aF649761a922FAed210
